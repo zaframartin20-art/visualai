@@ -1,0 +1,38 @@
+Analiza la siguiente canción.
+
+Género:
+{genero}
+
+BPM:
+{bpm}
+
+Duración:
+{duracion}
+
+Emoción:
+{emocion}
+
+Genera un videoclip dividido en:
+
+1. Intro
+2. Build Up
+3. Pre Drop
+4. Drop
+5. Break
+6. Segundo Build
+7. Segundo Drop
+8. Outro
+
+Para cada sección describe:
+
+- ambiente
+- escenario
+- iluminación
+- movimiento de cámara
+- efectos visuales
+- emoción
+- transición hacia la siguiente escena
+
+No escribas escenas genéricas.
+
+Piensa como un director de cine especializado en festivales EDM.

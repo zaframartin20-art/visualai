@@ -1,0 +1,5 @@
+MODEL = "gpt"
+
+TEMPERATURE = 0.8
+
+MAX_TOKENS = 2500
